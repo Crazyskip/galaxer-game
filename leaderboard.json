@@ -1,0 +1,56 @@
+{
+  "type": "LeaderboardCollection",
+  "totalFeatures": 10,
+  "leaderboard": [
+    {
+      "name": "PLAYER 1",
+      "score": 50000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 2",
+      "score": 45000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 3",
+      "score": 40000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 4",
+      "score": 35000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 5",
+      "score": 30000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 6",
+      "score": 25000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 7",
+      "score": 20000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 8",
+      "score": 15000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 9",
+      "score": 10000,
+      "date": "3/10/2020"
+    },
+    {
+      "name": "PLAYER 10",
+      "score": 5000,
+      "date": "3/10/2020"
+    }
+  ]
+}
